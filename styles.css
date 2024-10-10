@@ -1,0 +1,153 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+    border-bottom: 2px solid #000; /* Black border for all sections */
+    padding-bottom: 20px;
+  }
+  
+  .green-border {
+    border-color: #28a746c2; /* Green border color */
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #b3e7ff;
+    
+   
+    margin-top: 20px;
+    
+ 
+  
+}
+
+
+  
+  /* styles.css */
+
+/* Existing styles */
+
+@media only screen and (max-width: 600px) {
+    /* Adjust styles for small screens */
+    .container {
+      padding: 10px;
+    }
+  
+    /* Add more responsive styles as needed */
+  }
+
+  .transparent-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .transparent-button:hover {
+    color: #007bff; /* Change color on hover */
+  }
+
+  .cv {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 4px solid #333333; /* Low-light border color */
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .name {
+    border: 2px solid #ffffff; /* Light border for your name */
+    padding: 10px;
+    display: inline-block;
+  }
+  
+  .highlight-section {
+    border-left: 4px solid #fff; /* Light border for left side of highlighted sections */
+    padding-left: 10px;
+    margin-bottom: 20px;
+  }
+
+  .education-info {
+    overflow: hidden; /* Clear the float */
+  }
+  
+  .date {
+    float: left;
+  }
+  
+  .education-details {
+    margin-left: 120px; /* Adjust the margin to create space between date and details */
+  }
+  
+  
+  
+  .Additional {
+    overflow: hidden;
+    float: right;
+    margin: -150px 40px 0 0;
+    margin-left: 20px; /* Adjust the margin to move it right */
+    margin-top: -150px;
+  }
+  
+  .Addi{
+    overflow: hidden;
+    float: right;
+    margin-left:330px;
+    margin-top: -170px;
+  }
+  .refer{
+    overflow: hidden;
+    float: right;
+    margin: -150px 50px 0 0;
+    margin-left:20%;
+    margin-top: -300px;
+  }
+  .rating-buttons {
+    display: flex;
+    gap: 8px; /* Adjust the gap according to your preference */
+  }
+
+
+  /* styles.css */
+
+  /* styles.css */
+
+  
+  
+  .cv-tag {
+    background-color: #b3d8ff; /* Green low-light color */
+    color: white;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  
+  
+
+  /* styles.css */
+
+
+  
+  
+
+  
+  /* Add more styles as needed */
+  
